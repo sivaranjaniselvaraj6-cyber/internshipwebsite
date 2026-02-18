@@ -19,7 +19,7 @@ ul {
   font-size: larger;
   list-style: none;
 }
-div {
+.ten {
   height: 200px;
   width: 60%;
   border: 5px solid rgb(0, 0, 0);
@@ -34,4 +34,19 @@ div:hover {
 }
 p {
   text-align: center;
+}
+.profile {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  justify-content: center;
+  margin-left: 660px;
+}
+.six {
+  background-color: white;
+  padding-bottom: 20px;
+}
+.six:hover {
+  background-color: white;
 }
